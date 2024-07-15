@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek5173/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/abhishek5173/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhishek5173/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishek5173/DSA/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek5173/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/abhishek5173/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhishek5173/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
