@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek5173/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/abhishek5173/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/abhishek5173/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhishek5173/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/abhishek5173/DSA/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/abhishek5173/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
