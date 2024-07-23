@@ -9,7 +9,7 @@ var searchInsert = function(nums, target) {
    {
         if(target>nums[i])
         {
-           return i+1;
+            result = i+1;
             break;
         }
         if(target==nums[i])
