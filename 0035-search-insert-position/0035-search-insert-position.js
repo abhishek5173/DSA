@@ -4,18 +4,19 @@
  * @return {number}
  */
 var searchInsert = function(nums, target) {
-    let position = 0;
-    for(let i=0 ; i < nums.length ; i++){
-        if (nums[i]==target){
-            return i
-
+   let result = 0;
+   for(let i=nums.length-1; i>=0; i--)
+   {
+        if(target>nums[i])
+        {
+            result = i+1;
+            break;
         }
-    }
-    for(let i=0 ; i < nums.length ; i++){
-        position = Math.max(nums[i],target)
-        if(position>target){
-            return i;
+        if(target==nums[i])
+        {
+            result = i;
+            break;
         }
-    }
-     return nums.length;
+   }
+   return result; 
 };
