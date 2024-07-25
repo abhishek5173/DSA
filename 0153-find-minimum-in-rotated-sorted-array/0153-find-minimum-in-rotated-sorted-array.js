@@ -3,11 +3,6 @@
  * @return {number}
  */
 var findMin = function (nums) {
-    let min = nums[0];
-    for (let i = 0; i < nums.length; i++) {
-        if(min >= nums[i]){
-            min = nums[i];
-        }
-    }
-    return min;
+    let min = nums.sort(function(a,b){return a-b})
+    return min[0];
 };
