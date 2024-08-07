@@ -30,3 +30,16 @@ var isIsomorphic = function (s, t) {
     }
     return true;
 };
+// if (s.length !== t.length) {
+//         return false;
+//     }
+//     let idx_s = 0;
+//     let idx_t = 0;
+//     while (idx_t < t.length && idx_s < s.length) {
+//         if (s.lastIndexOf(s[idx_s]) !== t.lastIndexOf(t[idx_t])) {
+//             return false;
+//         }
+//         idx_t++;
+//         idx_s++;
+//     }
+//     return true
