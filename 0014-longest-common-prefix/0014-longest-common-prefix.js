@@ -11,7 +11,7 @@ var longestCommonPrefix = function(strs) {
         if(f[i] != l[i]){
             break;
         }
-        temp+=f[i]
+        temp += f[i]
     }
     return temp;
 };
