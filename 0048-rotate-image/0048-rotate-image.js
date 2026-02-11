@@ -7,7 +7,7 @@ var rotate = function(matrix) {
 
     // Transpose the matrix
     for (let i = 0; i < rows - 1; i++) {
-        for (let j = i + 1; j < rows; j++) {
+        for (let j = i + 1; j < rows; j++) { 
             let temp = matrix[i][j];
             matrix[i][j] = matrix[j][i];
             matrix[j][i] = temp;
