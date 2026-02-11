@@ -7,7 +7,7 @@ var sortColors = function(nums) {
     let mid = 0;
     let high = nums.length-1;
     while(mid<=high){
-        if (nums[mid]==0){
+        if (nums[mid]==0){ 
             let temp = nums[low]
             nums[low]=nums[mid]
             nums[mid]=temp
