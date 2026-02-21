@@ -19,7 +19,7 @@ var rotate = function(nums, d) {
          
        }
        
-       temp.reverse();
+       temp.reverse(); 
        for (let i = nums.length-1; i>=d; i--) {
          nums[i] = nums[i-d];
          
